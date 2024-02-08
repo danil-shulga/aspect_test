@@ -1,0 +1,10 @@
+.content {
+  max-width: 100%;
+  min-height: 700px;
+  position: relative;
+  box-sizing: border-box;
+
+  text-align: left;
+  background-color: azure;
+  overflow-y: scroll;
+}

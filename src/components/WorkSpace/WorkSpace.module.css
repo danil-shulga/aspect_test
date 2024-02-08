@@ -1,0 +1,13 @@
+.workSpace {
+  width: 90vw;
+  max-width: 90vw;
+}
+
+.controlsPanel {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 20px;
+
+  padding-bottom: 20px;
+}

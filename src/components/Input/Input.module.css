@@ -1,0 +1,10 @@
+.inputWrapper {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+}
+
+.label {
+  text-align: left;
+  color: #bce5f5;
+}
