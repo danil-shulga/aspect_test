@@ -1,4 +1,4 @@
-* [ссылка Vercel] (https://aspect-test.vercel.app/)
+* [ссылка Vercel](https://aspect-test.vercel.app/)
 
 ### Стек
 * React
@@ -6,4 +6,4 @@
 
 ### Задание
 
-* [DOC file] (https://drive.google.com/file/d/16efIhz8RdTzmYtbA9WAzAyndSoqBBomE/view?usp=sharing)
+* [DOC file](https://drive.google.com/file/d/16efIhz8RdTzmYtbA9WAzAyndSoqBBomE/view?usp=sharing)
