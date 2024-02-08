@@ -6,4 +6,4 @@
 
 ### Задание
 
-* [DOC file](https://drive.google.com/file/d/16efIhz8RdTzmYtbA9WAzAyndSoqBBomE/view?usp=sharing)
+* [PDF file](https://drive.google.com/file/d/16efIhz8RdTzmYtbA9WAzAyndSoqBBomE/view?usp=sharing)
