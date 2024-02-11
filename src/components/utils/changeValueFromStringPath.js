@@ -2,10 +2,6 @@ import { keysFromStringPath } from './keysFromStringPath';
 import { stringToBoolean } from './stringToBoolean';
 import { stringToObject } from './stringToObject';
 
-// из за условия что нельзя копировать/клонировать исходный массив.
-// при работе с глубокой вложенностью приходится мутировать исходный
-// что не есть хорошо и могло бы привести к багам
-// но с текущим функционалом оно работает нормально
 export const changeValueFromStringPath = (obj, path, newValue) => {
   const keys = keysFromStringPath(path);
 
